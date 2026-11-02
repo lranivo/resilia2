@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Builds (ils se régénèrent)
+build/
+dist/
+installer/
+
+# Données et sensibles
+*.xlsx
+*.csv
+diagnostics/
+logs/
+*.log
+config.json
+desktop.ini
+.vscode/
